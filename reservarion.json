@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "hotel": 4,
+        "room_number": "1",
+        "description": "Один",
+        "price": "1.00",
+        "capacity": 1,
+        "room_type": "standard"
+    },
+    {
+        "id": 2,
+        "hotel": 4,
+        "room_number": "2",
+        "description": "Два",
+        "price": "2.00",
+        "capacity": 2,
+        "room_type": "standard"
+    },
+    {
+        "id": 3,
+        "hotel": 5,
+        "room_number": "10",
+        "description": "Десять",
+        "price": "10.00",
+        "capacity": 10,
+        "room_type": "superior"
+    },
+    {
+        "id": 4,
+        "hotel": 5,
+        "room_number": "11",
+        "description": "Одиннадцать",
+        "price": "11.00",
+        "capacity": 11,
+        "room_type": "luxury"
+    },
+    {
+        "id": 5,
+        "hotel": 4,
+        "room_number": "3",
+        "description": "Три",
+        "price": "3.00",
+        "capacity": 3,
+        "room_type": "standard"
+    }
+]
